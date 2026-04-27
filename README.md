@@ -7,3 +7,41 @@ We have individually used two different approches one is (DistilBert) and second
 
 DistilBert  = 71 % accuracy
 (TF-IDF + SVM ) = 81.53 % accuracy
+
+
+
+Pipeline :  
+
+News Dataset
+
+↓
+
+EDA & Preprocessing
+
+↓
+
+Text Combination
+
+↓
+
+Label Encoding
+
+↓
+
+Train-Test Split
+
+↓
+
+DistilBERT Tokenization
+
+↓
+
+DistilBERT Fine-Tuning
+
+↓
+
+Evaluation
+
+↓
+
+Topic Prediction
